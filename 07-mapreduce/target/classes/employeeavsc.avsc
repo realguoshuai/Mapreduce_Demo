@@ -1,0 +1,7 @@
+{"namespace": "com.zhiyou100.entity",
+ "type": "record",
+ "name": "EmployeeResult",
+ "fields": [
+     {"name": "content", "type": "string"}
+ ]
+}
