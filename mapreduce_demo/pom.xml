@@ -4,6 +4,7 @@
   <artifactId>03-mapreduce</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
+
   	<!-- https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-client -->
 		<dependency>
 			<groupId>org.apache.hadoop</groupId>
