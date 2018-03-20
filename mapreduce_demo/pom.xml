@@ -30,7 +30,7 @@
 		</dependency>
   </dependencies>
   <build>
-  
+ 
 	<plugins>
 			<plugin>
 				<groupId>org.apache.avro</groupId>
